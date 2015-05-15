@@ -1,3 +1,3 @@
 # teste
 Nada demais... só testando e aprendendo a trabalhar com o Git
-Dando commit
+Deletei a antiga e agora estou colocando essa nova linha.
